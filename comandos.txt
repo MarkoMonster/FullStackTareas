@@ -1,0 +1,6 @@
+npm init
+npm i expresss dotenv mongoose colors
+npm i nodemon -D
+npm i express-async-handler
+npm i bcryptjs
+npm i jsonwebtoken
